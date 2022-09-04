@@ -1,0 +1,41 @@
+.contenedor{
+    width: 70%;
+    margin: auto;
+}
+
+
+header{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: 'Philosopher', sans-serif;
+    margin: 20px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    letter-spacing: 2px;
+    margin: 0%;
+}
+span{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+.inferior{
+    display: flex;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0%;
+}
+.columnas{
+    display: flex;
+}
